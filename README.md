@@ -1,13 +1,14 @@
 Elective Management System (EMS)
 By Group-2
+
 	1. Ashish Kumar Sahu (Leader)
 	2. Harsh Gupta
 	3. Manan Bhatia
 	4. Mayank Gupta
---------------------------------------------
+
 ============================================
 
-Website Link - http://emsnitc.epizy.com
+Website Link - 
 
 ===========================================
 
