@@ -1,4 +1,4 @@
-Elective Management System (EMS)
+# Elective Management System (EMS)
 By Group-2
 
 	1. Ashish Kumar Sahu (Leader)
@@ -8,20 +8,22 @@ By Group-2
 
 
 
-Website Link - http://emsnitc.freecluster.eu/
+## Preview 
+http://emsnitc.freecluster.eu/
 
 
 
-#Starting Execution file - index.php
+## Starting Execution file
+index.php
 
 --------------------------------------------
-ADMIN Login
+## ADMIN Login
 
 	ID - admin@nitc.ac.in
 	PW - admin
 
 --------------------------------------------
-FA Login
+## FA Login
 
 	ID - fa1@nitc.ac.in
 	PW - fa1
@@ -36,7 +38,7 @@ FA Login
 	PW - fa4
 
 --------------------------------------------
-STUDENT Login
+## STUDENT Login
 
 	ID - student1@nitc.ac.in
 	PW - student1
